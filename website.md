@@ -5,3 +5,6 @@
 
 
 [centos7-epel](http://mirrors.aliyun.com/repo/epel-7.repo)
+
+
+[gogs](https://chinawzy.github.io/gogs_0.12.6_linux_amd64.tar.gz)
